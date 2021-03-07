@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # put your python code here
+    double_alphabet = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6489#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 07 Mar 2021 10:41:34 UTC
+record: -1
