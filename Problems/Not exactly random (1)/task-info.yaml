@@ -1,0 +1,20 @@
+type: code
+custom_name: Not exactly random
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
+
+
+    # don't modify this code or variable `n` may not be available
+    n = int(input())
+
+    # put your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7178#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 13 Mar 2021 12:37:49 UTC
+record: -1

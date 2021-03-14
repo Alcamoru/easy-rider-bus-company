@@ -1,0 +1,9 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# create the planets.txt'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8339#comment
+status: Solved
+record: -1
